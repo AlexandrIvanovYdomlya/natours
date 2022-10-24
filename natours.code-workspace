@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "natours",
+			"path": "natours"
+		}
+	],
+	"settings": {
+		"editor.fontFamily": "Consolas, Monaco,  'Courier New', monospace"
+	}
+}
